@@ -11,7 +11,10 @@
   
 2. Logistic Regression
    - Effect on Admission (ml_activity_2_q1.ipynb)
-   - Diabetes classification (ml_activity_2_ex.ipynb)
+   - Diabetes classification - Log_Reg (ml_activity_2_ex.ipynb)
 
 3. Decision Tree Classifier
    - Diabetes Classification - DTC (ml_activity_3_ex.ipynb)
+  
+4. Support Vector Machines (SVM)
+   - Diabetes Classification - SVM (ml_activity_4_ex.ipynb)
