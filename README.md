@@ -11,3 +11,4 @@
   
 2. Logistic Regression
    - Effect on Admission (ml_activity_2_q1.ipynb)
+   - Diabetes classification (ml_activity_2_ex.ipynb)
