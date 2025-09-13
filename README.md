@@ -20,3 +20,7 @@
    - Diabetes Classification - SVM (ml_activity_4_ex.ipynb)
    - Quadratic Distribution using SVM (ml_activity_4_q1.ipynb)
    - Spam Mail Classification (ml_activity_4_q2.ipynb)
+  
+5. Principal Component Analysis
+   - PCA for Breast cancer dataset (ml_activity_5_ex.ipynb)
+   - PCA for housing-related dataset (ml_activity_5_q2.ipynb)
