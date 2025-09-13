@@ -26,3 +26,6 @@
 5. Principal Component Analysis
    - PCA for Breast cancer dataset (ml_activity_5_ex.ipynb)
    - PCA for housing-related dataset (ml_activity_5_q2.ipynb)
+
+6. k - Nearest Neighbours (KNN)
+   - kNN for breast cancer dataset (ml_activity_6_ex.ipynb)
