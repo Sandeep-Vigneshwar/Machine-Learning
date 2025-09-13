@@ -15,6 +15,7 @@
 
 3. Decision Tree Classifier
    - Diabetes Classification - DTC (ml_activity_3_ex.ipynb)
+   - Housing Classification (ml_activity_3_q1.ipynb)
   
 4. Support Vector Machines (SVM)
    - Diabetes Classification - SVM (ml_activity_4_ex.ipynb)
