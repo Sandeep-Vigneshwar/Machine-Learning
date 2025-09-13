@@ -18,4 +18,5 @@
   
 4. Support Vector Machines (SVM)
    - Diabetes Classification - SVM (ml_activity_4_ex.ipynb)
+   - Quadratic Distribution using SVM (ml_activity_4_q1.ipynb)
    - Spam Mail Classification (ml_activity_4_q2.ipynb)
