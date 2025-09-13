@@ -29,3 +29,4 @@
 
 6. k - Nearest Neighbours (KNN)
    - kNN for breast cancer dataset (ml_activity_6_ex.ipynb)
+   - Euclidean distance colour identification (ml_activity_6_q2.ipynb)
